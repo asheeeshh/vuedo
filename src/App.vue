@@ -27,12 +27,10 @@ body {
   width: 100vw;
   height: 100vh;
 }
-
 #app {
   width: 100%;
   height: 100%;
 }
-
 .main-container {
   width: 100%;
   height: 100%;
@@ -41,7 +39,6 @@ body {
   align-items: center;
   flex-direction: column;
 }
-
 .app-container {
   width: 100%;
   height: 100%;

@@ -127,17 +127,14 @@ ul {
     width: 8px;
     height:8px;
 }
-  
 ::-webkit-scrollbar-track {
     background: transparent;
     background-clip: content-box;
 }
-
 ::-webkit-scrollbar-thumb {
     background: #2d3035;
     border-radius: 5px;
 }
-
 ::-webkit-scrollbar-thumb:hover {
     background: #2d3035;
 }

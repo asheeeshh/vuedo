@@ -13,8 +13,7 @@ export default {
   name: 'App',
 
   components: {
-    HelloWorld,
-    Todo
+    Todo,
   },
 
   data: () => ({

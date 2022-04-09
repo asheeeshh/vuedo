@@ -1,0 +1,33 @@
+{
+  "name": "fva",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vite preview",
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@chakra-ui/vue": "^0.11.0",
+    "@emotion/css": "^11.9.0",
+    "@mdi/font": "5.9.55",
+    "roboto-fontface": "*",
+    "vue": "^3.2.25",
+    "vuetify": "^3.0.0-beta.0",
+    "webfontloader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.0",
+    "@vuetify/vite-plugin": "^1.0.0-alpha.0",
+    "eslint": "^8.13.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.6.2",
+    "sass": "^1.38.0",
+    "sass-loader": "^10.0.0",
+    "vite": "^2.9.0",
+    "vue-cli-plugin-vuetify": "~2.4.8",
+    "vuetify-loader": "^2.0.0-alpha.0"
+  }
+}
